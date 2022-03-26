@@ -141,6 +141,7 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
+  margin-top: 70px;
   margin-bottom: 70px;
 }
 .section-title h2 {
@@ -439,6 +440,12 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+.testimonial-data {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #666;
+}
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -604,3 +611,5 @@ label {
     margin: 50px 0;
   }
 }
+
+. 

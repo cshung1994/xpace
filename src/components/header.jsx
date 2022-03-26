@@ -4,7 +4,7 @@ export const Header = (props) => {
       <div className='intro'>
         <div className='overlay'>
           <div className='container'>
-            <div className='row'>
+            {/* <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
@@ -18,7 +18,7 @@ export const Header = (props) => {
                   Learn More
                 </a>{' '}
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
