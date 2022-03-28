@@ -1,0 +1,31 @@
+$utilities: (
+    "text-weight": (
+        property: font-weight,
+        class: "text-weight",
+        values: (
+            900: 900,
+            800: 800,
+            700: 700,
+            500: 500,
+            400: 400,
+        ),
+    ),
+    "text-size": (
+        property: font-size,
+        class: "text-size",
+        values: (
+            6: 6rem,
+            5dot5: 5.5rem,
+            5: 5rem,
+            4dot5: 4.5rem,
+            4: 4rem,
+            3dot5: 3.5rem,
+            3: 3rem,
+            2dot5: 2.5rem,
+            2: 2rem,
+            1dot5: 1.5rem,
+            1: 1rem,
+            dot5: .5rem,
+        ),
+    ),
+);

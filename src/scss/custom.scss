@@ -1,0 +1,65 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+@import url("http://fonts.cdnfonts.com/css/saira");
+
+body {
+    font-family: "Saira", sans-serif;
+}
+
+.main-page {
+    background: linear-gradient(180deg, #ffffff 0%, #acdfea 100%);
+    height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.full-page {
+    height: 100vh;
+    width: 100%;
+}
+
+.input-box {
+    border: 2px solid #000000;
+    border-radius: 20px;
+    height: 4rem;
+    width: 25vw;
+    height: 90px;
+    font-family: "Saira", sans-serif;
+    .icon {
+        height: 1.5rem;
+    }
+    input::placeholder {
+        font-family: "Saira", sans-serif;
+    }
+}
+
+.xpace-btn {
+    font-weight: 800;
+    box-shadow: 5px 5px 8px rgba(149, 127, 127, 0.37), inset 3px 3px 8px rgba(255, 252, 252, 0.77), inset -4px -6px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-width: 0px;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    &.primary {
+        background: #6C2ED0;
+        color: #FFFFFF;
+    }
+
+    &.secondary {
+        background: linear-gradient(0deg, rgba(0, 255, 194, 0.8), rgba(0, 255, 194, 0.8)), rgba(255, 255, 255, 0.3);
+        color: #FFFFFF;
+    }
+}
+
+.xpace-highlight {
+    background: rgba(255, 255, 255, 0.37);
+    box-shadow: 4px 4px 27px #FFFFFF, 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 85px;
+    width: 20vw;
+    margin-left: auto;
+    margin-right: auto;
+}
