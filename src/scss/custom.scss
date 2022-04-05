@@ -1,0 +1,23 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+@import url("http://fonts.cdnfonts.com/css/saira");
+
+body {
+    font-family: "Saira", sans-serif;
+}
+
+.frame {
+    min-height:100vh;
+    width: 100%;
+}
+
+/* Home components */
+.card.feature {
+    height: 100%;
+    border-radius: 20px;
+    & .card-header {
+        border-bottom: 0px;
+    }
+}
+
+/* X-pet components */
