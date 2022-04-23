@@ -11,6 +11,15 @@ body {
     width: 100%;
 }
 
+.nav-link {
+    border-radius: 0.75rem;
+}
+
+.nav-link.active {
+    background-color: #fff;
+    color: #000 !important;
+}
+
 /* Home components */
 .card.feature {
     height: 100%;

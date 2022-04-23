@@ -89,7 +89,7 @@
             </div>
         </div>
         <div class="col-5 d-flex flex-column-reverse text-center">
-            <button type="button" class="btn btn-success">Prepare  For Your Travel Now </button>
+            <button type="button" class="btn btn-success">Prepare For Your Travel Now </button>
         </div>
         <div class="col-4 d-flex flex-column-reverse">
             <img src="../assets/pass.png" class="img-fluid p-2">
