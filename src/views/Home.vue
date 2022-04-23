@@ -3,61 +3,47 @@
         <div class="frame">
             <div class="row py-3 gy-3">
                 <div class="col-md-8">
-                    <div class="display-3 fw-bold">Data Protection  &  Justice Project</div>
-                </div>
-                <div class="col-md-4 text-primary h4">
-                    建立在 web 3.0 技術上<br>
-                    以保護用戶資料、資料正義為核心<br>
-                    功能強大的次元社群論壇工具<br>
-                    一次滿足用戶交友、專取收入的需求
-                </div>
-                <div class="col-12">
+                    <div class="display-3 fw-bold">CLOSER RICHER HAPPIER</div>
                     <br>
                     <a href="#" class="text-info">Download the Whitepaper</a>
                     <br>
                     <a href="#" class="text-info">View the Onepaper</a>
                 </div>
+                <div class="col-md-4 text-primary h4">
+                    <img src="../assets/Home/astra.png" class="icon" width="100%">
+                </div>
             </div>
             <div class="row py-3 gy-3 text-center">
                 <div class="col-md">
-                    <div class="card feature text-black">
-                        <h5 class="card-header fw-bold display-6">BBS X-city</h5>
-                        <div class="card-body">
-                            <p class="card-text">
-                                BBS<br>
-                                社群聚會<br>
-                                即時視訊<br>
-                                太空旅行<br>
+                    <div class="feature text-black">
+                        <img src="../assets/Home/ring.png" class="icon" width="100%">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div style="height: 80px">
+                        <h2 class="fw-bold display-5">Vision</h2>
+                    </div>
+                    <div class="feature text-white">
+                        <h5 class="fw-bold display-6">Data Justice</h5>
+                        <div>
+                            <p>
+                                Being one part of the web 3.0 philosophy, Xpace dedicate to realizing a data justice world. The enormous profits of data should belong to data generators, not media magnates. Data generators, our users, are the boss of their data. With blockchain technology, the logs of authorization are recorded immutably and transparently. 
                             </p>
-                            <a href="#" class="btn btn-primary">Know More</a>
+                            <img src="../assets/Home/smoke.png" class="icon">
                         </div>
                     </div>
                 </div>
                 <div class="col-md">
-                    <div class="card feature text-black">
-                        <h5 class="card-header fw-bold display-6">X-pet</h5>
-                        <div class="card-body">
-                            <p class="card-text">
-                                NFT<br>
-                                交友聊聊<br>
-                                專屬寵物<br>
-                                最適推薦<br>
-                            </p>
-                            <a href="#" class="btn btn-primary">Know More</a>
-                        </div>
+                    <div style="height: 80px">
                     </div>
-                </div>
-                <div class="col-md">
-                    <div class="card feature text-black">
-                        <h5 class="card-header fw-bold display-6">Surf to Earn</h5>
-                        <div class="card-body">
+                    <div class="text-white">
+                        <h5 class="fw-bold display-6">Immersion</h5>
+                        <div>
                             <p class="card-text">
-                                利潤回歸<br>
-                                創造價值<br>
-                                最適配置<br>
-                                DAO<br>
+                                Xpace wish you a brand new community experience, where you can meet people who share the same interests as you and interact with them with exciting options. The immersive environments give you more inspiration when you surf X-city. 
                             </p>
-                            <a href="#" class="btn btn-primary">Know More</a>
+                            <!-- <a href="#" class="btn btn-primary">Know More</a> -->
+                            <img src="../assets/Home/ball.png" class="icon">
                         </div>
                     </div>
                 </div>
@@ -65,6 +51,10 @@
         </div>
         <br>
         <div class="frame">
+            <img src="../assets/Home/roadmap.png" class="img-fluid">
+        </div>
+        <br />
+        <!-- <div class="frame">
             <div class="d-flex">
                 <img src="../assets/logo.png" width="100" height="100">
                 <div>
@@ -85,9 +75,69 @@
                 </div>
                 <img src="../assets/Home/ecosystem&application.png" class="img-fluid">
             </div>
-        </div>
+        </div> -->
         <br>
         <div class="frame">
+            <div class="d-flex align-items-center mb-3">
+                <div>
+                    <h1 class="fw-bold">Tokenomics</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md">
+                    <div class="row">
+                        <div class="col-6">
+                            <p>TOKEN SYMBOL</p>
+                            <img src="../assets/logo.png" width="100" height="100">
+                            <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
+                            <p>XPA</p>
+                        </div>
+                        <div class="col-6">
+                            <p>INITIAL CIRCULATION</p>
+                            <p>50,000,000</p>
+                            <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
+                        </div>
+                        <div class="col-6">
+                            <p>INITIAL PUBLIC SALE PRICE</p>
+                            <p>$0.1</p>
+                            <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
+                        </div>
+                        <div class="col-6">
+                            <p>TOTAL SUPPLY</p>
+                            <p>1,000,000,000</p>
+                            <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <p class="my-3">TOKEN ALLOCATION</p>
+                    <img src="../assets/Home/token_allocation.png" style="height: 40vh;">
+                    <!-- <p class="my-3">TOKEN RELEASE SCHEDULE</p>
+                    <img src="../assets/Home/token_release_schedule.jpg" class="img-fluid"> -->
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="frame">
+            <div class="d-flex align-items-center mb-3">
+                <div>
+                    <h1 class="fw-bold">NFT</h1>
+                </div>
+            </div>
+            <div class="row py-3 gy-3 text-center">
+                <div class="col-md">
+                    <img src="../assets/Home/nft_left.png" style="width: 100%">
+                </div>
+                <div class="col-md">
+                    <img src="../assets/Home/nft_mid.png" style="width: 100%">
+                </div>
+                <div class="col-md">
+                    <img src="../assets/Home/nft_right.png" style="width: 100%; margin-top: 200px">
+                </div>
+            </div>
+        </div>
+        <br />
+        <!-- <div class="frame">
             <div class="d-flex align-items-center mb-3">
                 <img src="../assets/logo.png" width="100" height="100">
                 <div>
@@ -98,7 +148,7 @@
                 <div class="col-sm-7">
                     <div>
                         <a href="#" class="text-info">View whitepaper for details</a>
-                        <div class="text-primary">
+                        <div class="text-primary text-white">
                             當全世界還在強調個資保護的落實<br>
                             我們決定再更向前一步邁進全球資料正義的未來<br>
                             讓鉅額的資料利潤不再被大型網路公司所壟斷<br>
@@ -138,10 +188,9 @@
                 </div>
             </div>
         </div>
-        <br>
+        <br> -->
         <div class="frame">
             <div class="d-flex align-items-center">
-                <img src="../assets/logo.png" width="100" height="100">
                 <div>
                     <h1 class="fw-bold">PARTNERS & INVESTORS</h1>
                 </div>
@@ -150,64 +199,16 @@
         <br>
         <div class="frame">
             <div class="d-flex align-items-center mb-3">
-                <img src="../assets/logo.png" width="100" height="100">
-                <div>
-                    <h1 class="fw-bold">XPA TOKENOMICS</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="row">
-                        <div class="col-6">
-                            <p>TOKEN SYMBOL</p>
-                            <img src="../assets/Home/token_allocation.png" class="img-fluid">
-                        </div>
-                        <div class="col-6">
-                            <p>INITIAL CIRCULATION</p>
-                            <img src="../assets/Home/token_allocation.png" class="img-fluid">
-                        </div>
-                        <div class="col-6">
-                            <p>INITIAL PUBLIC SALE PRICE</p>
-                            <img src="../assets/Home/token_allocation.png" class="img-fluid">
-                        </div>
-                        <div class="col-6">
-                            <p>TOTAL SUPPLY</p>
-                            <img src="../assets/Home/token_allocation.png" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <p class="my-3">TOKEN ALLOCATION</p>
-                    <img src="../assets/Home/token_allocation.png" style="height: 40vh;">
-                    <p class="my-3">TOKEN RELEASE SCHEDULE</p>
-                    <img src="../assets/Home/token_release_schedule.jpg" class="img-fluid">
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="frame">
-            <div class="d-flex align-items-center mb-3">
-                <img src="../assets/logo.png" width="100" height="100">
-                <div>
-                    <h1 class="fw-bold">GO TO DATA JUSTICE FUTURE</h1>
-                </div>
-            </div>
-            <div>
-                <p>ROADMAP</p>
-                <img src="../assets/Home/roadmap.png" class="img-fluid">
-            </div>
-        </div>
-        <br>
-        <div class="frame">
-            <div class="d-flex align-items-center mb-3">
-                <img src="../assets/logo.png" width="100" height="100">
                 <div>
                     <h1 class="fw-bold">TEAM & ADVISORS</h1>
                 </div>
             </div>
-            <div class="row gy-3">
+            <!-- <div class="row gy-3">
                 <div class="col-6 col-md-3">
-                    <img src="../assets/Home/team&advisors.png" class="img-fluid">
+                    <img src="../assets/Home/team&advisors.png" style="border-radius: 50%; width: 200px;height: 200px">
+                </div>
+                <div class="col-6 col-md-3">
+                    <img src="../assets/Home/team&advisors.png" style="border-radius: 50%; width: 200px;height: 200px">
                 </div>
                 <div class="col-6 col-md-3">
                     <img src="../assets/Home/team&advisors.png" class="img-fluid">
@@ -227,26 +228,23 @@
                 <div class="col-6 col-md-3">
                     <img src="../assets/Home/team&advisors.png" class="img-fluid">
                 </div>
-                <div class="col-6 col-md-3">
-                    <img src="../assets/Home/team&advisors.png" class="img-fluid">
-                </div>
-            </div>
+            </div> -->
         </div>
         <br>
         
-        <div class="d-flex align-items-center mb-3">
-            <img src="../assets/logo.png" width="100" height="100">
-            <div>
-                <h1 class="fw-bold">FOLLOW US</h1>
-            </div>
-        </div>
-        <form class="d-flex">
+        <!-- <form class="d-flex">
             <div class="input-group mb-3">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
             </div>
-        </form>
+        </form> -->
     </div>
-    
+    <div>
+        <img src="../assets/Home/followus.png" width="100%" style="position: absolute;">
+        <div class="mx-3 my-3" style="position: absolute;">
+            <h1>Join the future community</h1>
+            <h1>to meet many fun and smart people</h1>
+        </div>
+    </div>
     
 </template>

@@ -97,8 +97,11 @@
     </div>
     <div class="frame">
         <div class="row gy-3">
-            <div class="col-8">
-                <img src="../assets/xpet_dashboard_unknow.png" class="img-fluid">
+            <div class="col-4">
+                <img src="../assets/plugin1.png" class="img-fluid">
+            </div>
+            <div class="col-4">
+                <img src="../assets/plugin2.png" class="img-fluid">
             </div>
             <div class="col-4">
                 <img src="../assets/xpet_dashboard.png" class="img-fluid">

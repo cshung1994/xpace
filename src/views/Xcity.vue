@@ -3,8 +3,9 @@
         <div class="row">
             <div class="col-md-6">
             </div>
-            <div class="col-md-6">
-                <img src="../assets/xcity/xcity.png" class="img-fluid" >
+                <img style="width:90vw; margin-top: 24px text-align: center; display: block; margin-left: auto; margin-right: auto;" src="../assets/xcity/xcity.png" class="img-fluid" >
+            <div class="col-md-6" style="position: absolute; top:15%; left:10%">
+                <H1>The Coolest BBS community</H1>
             </div>
         </div>
     </div>

@@ -2,8 +2,8 @@
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="#">
-				<img src="./assets/logo.png" alt="" width="24" height="24" class="d-inline-block align-text-top">
-				Xpace
+				<img src="./assets/logo.png" alt="" width="40" height="40" class="d-inline-block align-text-top">
+				XPACE
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -15,10 +15,10 @@
 							<router-link class="nav-link" to="/">Home</router-link>
 						</li>
 						<li class="nav-item">
-							<router-link class="nav-link" to="/xcity">XCity</router-link>
+							<router-link class="nav-link" to="/xcity">BBS X-city</router-link>
 						</li>
 						<li class="nav-item">
-							<router-link class="nav-link" to="/xpet">XPet</router-link>
+							<router-link class="nav-link" to="/xpet">X-pet</router-link>
 						</li>
 					</ul>
 					<form class="d-flex">
@@ -30,7 +30,7 @@
 		</div>
 	</nav>
 	<br>
-	<div style="background: linear-gradient(180deg, #020915 0%, #340068 100%);">
+	<div style="background: black">
 		<div class="text-white">
 			<router-view></router-view>
 		</div>
