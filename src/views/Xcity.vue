@@ -60,8 +60,7 @@
         </div>
 
         <div class="mt-5 d-flex flex-column justify-content-center">
-            <button type="button" class="btn mx-auto px-4 py-2 text-white fw-bold border border-white mb-4" style="borderRadius: 0.75rem;">Become the First Batch of Citizen</button>
-            <button type="button" class="btn mx-auto px-4 py-2 text-white fw-bold border border-white" style="borderRadius: 0.75rem;">Want to know more</button>
+            <button type="button" class="btn mx-auto px-4 py-2 text-white fw-bold border border-white" style="borderRadius: 0.75rem;">Become the First Batch of Citizen</button>
         </div>
     </section>
 </template>
