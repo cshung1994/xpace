@@ -1,15 +1,14 @@
 <template>
     <div class="frame">
-        <div class="row">
-            <div class="col-md-6">
-            </div>
-                <img style="width:90vw; margin-top: 24px text-align: center; display: block; margin-left: auto; margin-right: auto;" src="../assets/xcity/xcity.png" class="img-fluid" >
-            <div class="col-md-6" style="position: absolute; top:15%; left:10%">
-                <H1>The Coolest BBS community</H1>
-            </div>
+        <img class="position-absolute img-fluid" src="../assets/xcity/xcity.png">
+
+        <div class="position-absolute py-4" style="left: 10%;">
+            <H1>
+                <strong><em>The Coolest BBS community</em></strong>
+            </H1>
         </div>
     </div>
-    <br>
+
     <div class="row g-3">
         <div class="col-md-6">
             <img src="../assets/xcity/theme.png" class="img-fluid" >

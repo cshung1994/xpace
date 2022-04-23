@@ -1,5 +1,5 @@
 <template>
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+	<nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="#">
 				<img src="./assets/logo.png" alt="" width="40" height="40" class="d-inline-block align-text-top">
@@ -29,11 +29,19 @@
 			</div>
 		</div>
 	</nav>
-	<br>
-	<div style="background: black">
-		<div class="text-white">
+
+	<div class="position-relative bg-black">
+		<div class="container text-white" style="paddingTop: 5rem;">
 			<router-view></router-view>
 		</div>
 	</div>
+
+	<div class="mt-4 text-white">
+        <img class="position-absolute w-100" src="./assets/Home/followus.png">
+        <div class="position-absolute w-100 mx-3 my-3 text-center">
+            <h1>Join the future community</h1>
+            <h1>to meet many fun and smart people</h1>
+        </div>
+    </div>
 
 </template>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container pt-5">
+    <div class="pt-5">
         <div class="frame">
             <div class="row py-3 gy-3">
                 <div class="col-md-8">
@@ -126,13 +126,13 @@
             </div>
             <div class="row py-3 gy-3 text-center">
                 <div class="col-md">
-                    <img src="../assets/Home/nft_left.png" style="width: 100%">
+                    <img class="w-100" src="../assets/Home/nft_left.png">
                 </div>
                 <div class="col-md">
-                    <img src="../assets/Home/nft_mid.png" style="width: 100%">
+                    <img class="w-100" src="../assets/Home/nft_mid.png">
                 </div>
                 <div class="col-md">
-                    <img src="../assets/Home/nft_right.png" style="width: 100%; margin-top: 200px">
+                    <img class="w-100" src="../assets/Home/nft_right.png" style="margin-top: 200px">
                 </div>
             </div>
         </div>
@@ -239,12 +239,4 @@
             </div>
         </form> -->
     </div>
-    <div>
-        <img src="../assets/Home/followus.png" width="100%" style="position: absolute;">
-        <div class="mx-3 my-3" style="position: absolute;">
-            <h1>Join the future community</h1>
-            <h1>to meet many fun and smart people</h1>
-        </div>
-    </div>
-    
 </template>
