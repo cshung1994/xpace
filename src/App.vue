@@ -1,9 +1,9 @@
 <template>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="#">
-				<img src="./assets/logo.png" alt="" width="40" height="40" class="d-inline-block align-text-top">
-				XPACE
+			<a class="d-inline-flex align-items-center navbar-brand" href="#">
+				<img src="./assets/logo.png" alt="" width="40" height="40" class="d-inline-block align-text-top me-2">
+				<strong>XPACE</strong>
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -36,7 +36,7 @@
 		</div>
 	</div>
 
-	<div class="mt-4 text-white">
+	<div class="text-white" style="marginTop: 6rem;">
         <img class="position-absolute w-100" src="./assets/Home/followus.png">
         <div class="position-absolute w-100 mx-3 my-3 text-center">
             <h1>Join the future community</h1>
