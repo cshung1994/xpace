@@ -20,11 +20,14 @@
 						<li class="nav-item">
 							<router-link class="nav-link" to="/xpet">X-pet</router-link>
 						</li>
+						<li class="nav-item">
+							<router-link class="nav-link" to="/xpadao">XPA DAO</router-link>
+						</li>
 					</ul>
-					<form class="d-flex">
+					<!-- <form class="d-flex">
 						<input class="form-control me-2" type="email" placeholder="Email" aria-label="email">
 						<button class="btn btn-outline-success" type="submit">Follow</button>
-					</form>
+					</form> -->
 				</div>
 			</div>
 		</div>
