@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Home from './views/Home.vue'
 import Xcity from './views/Xcity.vue'
 import Xpet from './views/Xpet.vue'
+import Xpadao from './views/Xpadao.vue'
 
 const routes = [
     {
@@ -18,7 +19,12 @@ const routes = [
         path: "/xcity",
         name: "Xcity",
         component: Xcity
-    }
+    },
+    {
+        path: "/xpadao",
+        name: "Xpadao",
+        component: Xpadao
+    },
 ]
 
 const router = createRouter({
