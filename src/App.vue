@@ -42,8 +42,10 @@
 	<div class="text-white" style="marginTop: 6rem;">
         <img class="position-absolute w-100" src="./assets/Home/followus.png">
         <div class="position-absolute w-100 mx-3 my-3 text-center">
-            <h1>Join the future community</h1>
-            <h1>to meet many fun and smart people</h1>
+            <h1 class="fw-bold">Join the future community</h1>
+            <h1 class="fw-bold">to meet many fun and smart people</h1>
+			<div class="p-4"></div>
+			<h1 class="mt-5 fw-light">Get notified about important XPACE updates.</h1>
         </div>
     </div>
 
