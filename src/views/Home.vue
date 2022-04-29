@@ -69,6 +69,14 @@
         </div>
         <br>
         <div class="frame">
+             <div class="d-flex justify-content-center mb-3">
+                <div>
+                    <i class="display-5 fw-bold">Core Features</i>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="frame">
             <img src="../assets/Home/roadmap.png" class="img-fluid">
         </div>
         <br />
