@@ -2,14 +2,28 @@
     <div class="pt-5">
         <div class="frame">
             <div class="row py-3 gy-3">
-                <div class="col-md-8">
-                    <div class="display-3 fw-bold">CLOSER RICHER HAPPIER</div>
+                <div>
+                    <i class="display-5 fw-bold">
+                        SURF TO EARN
+                    </i>
+                    <br />
+                    <i class="display-5 fw-bold">
+                        CLOSER
+                        <img src="../assets/Home/pink.png" class="icon" width="50px">
+                        RICHER
+                        <img src="../assets/Home/lightblue.png" class="icon" width="50px">
+                        HAPPIER
+                    </i>
                     <br>
-                    <a href="#" class="text-info">Download the Whitepaper</a>
+                    <!-- <a href="#" class="text-info">Download the Whitepaper</a>
                     <br>
-                    <a href="#" class="text-info">View the Onepaper</a>
+                    <a href="#" class="text-info">View the Onepaper</a> -->
                 </div>
-                <div class="col-md-4 text-primary h4">
+                <div class="col-6">
+                    The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
+                    Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
+                </div>
+                <div class="col-6">
                     <img src="../assets/Home/astra.png" class="icon" width="100%">
                 </div>
             </div>
@@ -27,9 +41,13 @@
                         <h5 class="fw-bold display-6">Data Justice</h5>
                         <div>
                             <p>
-                                Being one part of the web 3.0 philosophy, Xpace dedicate to realizing a data justice world. The enormous profits of data should belong to data generators, not media magnates. Data generators, our users, are the boss of their data. With blockchain technology, the logs of authorization are recorded immutably and transparently. 
+                                Being one part of the web 3.0 philosophy,
+                                Xpace dedicate to realizing a data justice world.
+                                The enormous profits of data should belong to data generators,
+                                not media magnates. Data generators, our users,
+                                are the boss of their data. With blockchain technology,
+                                the logs of authorization are recorded immutably and transparently.
                             </p>
-                            <img src="../assets/Home/smoke.png" class="icon">
                         </div>
                     </div>
                 </div>
