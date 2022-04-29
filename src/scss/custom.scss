@@ -23,6 +23,21 @@ body {
     background-color: black !important;
 }
 
+.hover-link {
+    display: flex;
+    width: 2rem;
+    height: 2rem;
+    background-color: white;
+    border-radius: 100%;
+    margin: 0.35rem 0;
+    padding: 0.25rem;
+    cursor: pointer;
+}
+
+.hover-link svg {
+    margin: auto
+}
+
 /* Home components */
 .card.feature {
     height: 100%;
