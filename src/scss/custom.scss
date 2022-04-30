@@ -1,6 +1,6 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "../node_modules/bootstrap/scss/variables";
-@import url("http://fonts.cdnfonts.com/css/saira");
+@import url("https://fonts.cdnfonts.com/css/saira");
 
 body {
     font-family: "Saira", sans-serif;
@@ -23,7 +23,7 @@ body {
     background-color: black !important;
 }
 
-.hover-link {
+.float-link {
     display: flex;
     width: 2rem;
     height: 2rem;
@@ -34,7 +34,7 @@ body {
     cursor: pointer;
 }
 
-.hover-link svg {
+.float-link svg {
     margin: auto
 }
 

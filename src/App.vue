@@ -35,19 +35,19 @@
 
 	<div class="position-fixed end-0 d-flex align-items-center" style="height: 100vh; zIndex: 100;">
 		<div class="d-flex flex-column gx-2 pe-2">
-			<div class="hover-link">
+			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'share-nodes']" />
 			</div>
-			<div class="hover-link">
+			<div class="float-link">
 				<font-awesome-icon :icon="['fab', 'discord']" />
 			</div>
-			<div class="hover-link">
+			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'envelope']" />
 			</div>
-			<div class="hover-link">
+			<div class="float-link">
 				<font-awesome-icon :icon="['fab', 'twitter']" />
 			</div>
-			<div class="hover-link">
+			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'paper-plane']" />
 			</div>
 		</div>
