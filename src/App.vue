@@ -33,6 +33,26 @@
 		</div>
 	</nav>
 
+	<div class="position-fixed end-0 d-flex align-items-center" style="height: 100vh; zIndex: 100;">
+		<div class="d-flex flex-column gx-2 pe-2">
+			<div class="hover-link">
+				<font-awesome-icon :icon="['fas', 'share-nodes']" />
+			</div>
+			<div class="hover-link">
+				<font-awesome-icon :icon="['fab', 'discord']" />
+			</div>
+			<div class="hover-link">
+				<font-awesome-icon :icon="['fas', 'envelope']" />
+			</div>
+			<div class="hover-link">
+				<font-awesome-icon :icon="['fab', 'twitter']" />
+			</div>
+			<div class="hover-link">
+				<font-awesome-icon :icon="['fas', 'paper-plane']" />
+			</div>
+		</div>
+	</div>
+
 	<div class="position-relative bg-black">
 		<div class="container text-white" style="paddingTop: 5rem;">
 			<router-view></router-view>
@@ -42,8 +62,10 @@
 	<div class="text-white" style="marginTop: 6rem;">
         <img class="position-absolute w-100" src="./assets/Home/followus.png">
         <div class="position-absolute w-100 mx-3 my-3 text-center">
-            <h1>Join the future community</h1>
-            <h1>to meet many fun and smart people</h1>
+            <h1 class="fw-bold">Join the future community</h1>
+            <h1 class="fw-bold">to meet many fun and smart people</h1>
+			<div class="p-4"></div>
+			<h1 class="mt-5 fw-light">Get notified about important XPACE updates.</h1>
         </div>
     </div>
 

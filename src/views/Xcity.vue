@@ -1,27 +1,30 @@
 <template>
-    <section style="height: 75vh;">
-        <img class="position-absolute img-fluid" src="../assets/xcity/xcity.png">
-        <div class="position-absolute py-4" style="left: 10%;">
+    <section class="position-relative">
+        <img class="position-absolute w-100 img-fluid" src="../assets/xcity/xcity.png">
+        <div class="position-relative w-100 px-4 py-4">
             <H1>
                 <strong><em>The Coolest BBS community</em></strong>
             </H1>
         </div>
+        <img class="invisible position-relative img-fluid" src="../assets/xcity/xcity.png" style="width: 90%">
     </section>
 
-    <section>
+    <section class="px-5">
         <H1>
             <strong><em>Planets Exploration</em></strong>
         </H1>
-        <div class="row">
-            <div class="col-md-9">
+        <div class="row gx-0">
+            <div class="col-md-7" style="zIndex: 1;">
                 <img class="img-fluid" src="../assets/xcity/theme.png">
-                <p class="mt-2 lh-1">Explore fun on every planet in the X-city world. Various landscapes and hiding events bring more exciting experiences for you.</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2 d-flex align-items-center" style="marginLeft: -0.4rem; zIndex: 0;">
+                <img class="img-fluid" src="../assets/xcity/spiral.png">
+            </div>
+            <div class="col-md-3 d-flex align-items-center">
                 <img class="img-fluid" src="../assets/xcity/planet.png">
-                <img class="mt-4 img-fluid" src="../assets/xcity/spiral.png">
             </div>
         </div>
+        <p class="mt-4 lh-1" style="width: 80%;">Explore fun on every planet in the X-city world. Various landscapes and hiding events bring more exciting experiences for you.</p>
     </section>
 
     <section style="marginTop: 5rem;">
@@ -46,21 +49,9 @@
         </div>
     </section>
 
-    <section style="marginTop: 5rem;">
-        <div class="row">
-            <div class="col-md-3 d-flex align-items-center">
-                <img class="img-fluid" src="../assets/xcity/llights.png">
-            </div>
-            <div class="col-md-6 d-flex align-items-center">
-                <img class="img-fluid" src="../assets/xcity/xq-pet.png">
-            </div>
-            <div class="col-md-3 d-flex align-items-center">
-                <img class="img-fluid" src="../assets/xcity/rlights.png">
-            </div>
-        </div>
-
-        <div class="mt-5 d-flex flex-column justify-content-center">
-            <button type="button" class="btn mx-auto px-4 py-2 text-white fw-bold border border-white" style="borderRadius: 0.75rem;">Become the First Batch of Citizen</button>
+    <section style="marginTop: 8rem;">
+        <div class="d-flex justify-content-center">
+            <img class="w-50 img-fluid" src="../assets/xcity/xq-pet.png">
         </div>
     </section>
 </template>
