@@ -1,12 +1,12 @@
 <template>
-    <div class="pt-5">
-        <div class="frame">
+    <div class="mt-5">
+        <section class="mt-0">
             <div class="row py-3 gy-3">
                 <div>
                     <i class="display-5 fw-bold">
                         SURF TO EARN
                     </i>
-                    <br />
+                    <br>
                     <i class="display-5 fw-bold">
                         CLOSER
                         <img src="../assets/Home/pink.png" class="icon" width="50px">
@@ -14,32 +14,38 @@
                         <img src="../assets/Home/lightblue.png" class="icon" width="50px">
                         HAPPIER
                     </i>
-                    <br>
                     <!-- <a href="#" class="text-info">Download the Whitepaper</a>
                     <br>
                     <a href="#" class="text-info">View the Onepaper</a> -->
                 </div>
                 <div class="col-6">
-                    The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
-                    Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
+                    <p class="fs-3">
+                        The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
+                        Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
+                    </p>
                 </div>
                 <div class="col-6">
                     <img src="../assets/Home/astra.png" class="icon" width="100%">
                 </div>
             </div>
-            <div class="row py-3 gy-3 text-center">
-                <div class="col-md">
-                    <div class="feature text-black">
-                        <img src="../assets/Home/ring.png" class="icon" width="100%">
-                    </div>
+        </section>
+
+        <section>
+            <div class="row mb-3">
+                <div class="offset-md-3 col-md-9 text-center">
+                    <h1 class="display-5 fw-bold fst-italic">Vision</h1>
                 </div>
-                <div class="col-md">
-                    <div style="height: 80px">
-                        <h2 class="fw-bold display-5">Vision</h2>
-                    </div>
-                    <div class="feature text-white">
-                        <h5 class="fw-bold display-6">Data Justice</h5>
-                        <div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="w-100" src="../assets/Home/ring.png" style="marginTop: 4rem;">
+                </div>
+
+                <div class="col-md-9">
+                    <div class="row g-5">
+                        <div class="col-md-6">
+                            <h5 class="fw-bold display-6">Data Justice</h5>
                             <p>
                                 Being one part of the web 3.0 philosophy,
                                 Xpace dedicate to realizing a data justice world.
@@ -49,38 +55,70 @@
                                 the logs of authorization are recorded immutably and transparently.
                             </p>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div style="height: 80px">
-                    </div>
-                    <div class="text-white">
-                        <h5 class="fw-bold display-6">Immersion</h5>
-                        <div>
+
+                        <div class="col-md-6">
+                            <h5 class="fw-bold display-6">Immersion</h5>
                             <p class="card-text">
                                 Xpace wish you a brand new community experience, where you can meet people who share the same interests as you and interact with them with exciting options. The immersive environments give you more inspiration when you surf X-city. 
                             </p>
                             <!-- <a href="#" class="btn btn-primary">Know More</a> -->
-                            <img src="../assets/Home/ball.png" class="icon">
+                            <img class="w-100" src="../assets/Home/ball.png">
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <br>
-        <div class="frame">
-             <div class="d-flex justify-content-center mb-3">
-                <div>
-                    <i class="display-5 fw-bold">Core Features</i>
+        </section>
+
+        <section>
+            <div class="text-center mb-5">
+                <h1 class="display-5 fw-bold fst-italic">Core Features</h1>
+                <h2 class="fw-light fs-5 lh-1">
+                    You can find fun social experiences here and
+                    <br>
+                    earn real money.
+                </h2>
+            </div>
+
+            <div class="row g-5">
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">DAO Governance</h2>
+                    <p class="pe-5 fw-light">XPA DAO token holders can govern the X-city social platform by participating in on-chain governance.</p>
+                </div>
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Fun & Convenient</h2>
+                    <p class="pe-5 fw-light">High personalized friends recommendation, fun and convenient experience in communication. </p>
+                </div>
+
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Spaces/communities DAO</h2>
+                    <p class="pe-5 fw-light">Users can deploy DAO tokens for their own spaces/communities, then set rules and manage them by their own DAO token.</p>
+                </div>
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Surf to earn</h2>
+                    <p class="pe-5 fw-light">Surf to earn from advertisement slots and the data you delegate (recorded on-chain) to XPACE.</p>
+                </div>
+
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Treasury</h2>
+                    <p class="pe-5 fw-light">The XPACE owns an on-chain pot of funds for the promotion and development of the ecosystem.</p>
+                </div>
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Rent to earn</h2>
+                    <p class="pe-5 fw-light">Rent advertisement slots in your space directly to advertisers.</p>
+                </div>
+
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">NFTs</h2>
+                    <p class="pe-5 fw-light">Turn your creations and spaces on XPACE into NFTs, and rent or sell them to others.</p>
+                </div>
+                <div class="col-md-6 px-5">
+                    <h2 class="fw-bold">Unique Algorithms</h2>
+                    <p class="pe-5 fw-light">XPACE's unique algorithms make your profit performance better.</p>
                 </div>
             </div>
-        </div>
-        <br />
-        <div class="frame">
-            <img src="../assets/Home/roadmap.png" class="img-fluid">
-        </div>
-        <br />
-        <!-- <div class="frame">
+        </section>
+
+        <!-- <section>
             <div class="d-flex">
                 <img src="../assets/logo.png" width="100" height="100">
                 <div>
@@ -101,16 +139,15 @@
                 </div>
                 <img src="../assets/Home/ecosystem&application.png" class="img-fluid">
             </div>
-        </div> -->
-        <br>
-        <div class="frame">
-            <div class="d-flex align-items-center mb-3">
-                <div>
-                    <h1 class="fw-bold">Tokenomics</h1>
-                </div>
+        </section> -->
+
+        <section>
+            <div class="text-center mb-5">
+                <h1 class="display-5 fw-bold fst-italic">Tokenomics</h1>
             </div>
-            <div class="row">
-                <div class="col-md">
+
+            <div class="row px-4">
+                <div class="col-md-8">
                     <div class="row">
                         <div class="col-6">
                             <p>TOKEN SYMBOL</p>
@@ -135,21 +172,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md">
-                    <p class="my-3">TOKEN ALLOCATION</p>
-                    <img src="../assets/Home/token_allocation.png" style="height: 40vh;">
+
+                <div class="col-md-4">
+                    <p class="mb-3 text-center">TOKEN ALLOCATION</p>
+                    <img class="w-100" src="../assets/Home/token_allocation.png">
                     <!-- <p class="my-3">TOKEN RELEASE SCHEDULE</p>
                     <img src="../assets/Home/token_release_schedule.jpg" class="img-fluid"> -->
                 </div>
             </div>
-        </div>
-        <br />
-        <div class="frame">
-            <div class="d-flex align-items-center mb-3">
-                <div>
-                    <h1 class="fw-bold">NFT</h1>
-                </div>
+        </section>
+
+        <section>
+            <div class="text-center mb-3">
+                <h1 class="display-5 fw-bold fst-italic">Roadmap</h1>
             </div>
+            <img src="../assets/Home/roadmap.png" class="img-fluid">
+        </section>
+
+        <section>
+            <div class="text-center mb-3">
+                <h1 class="display-5 fw-bold fst-italic">NFT</h1>
+            </div>
+
             <div class="row py-3 gy-3 text-center">
                 <div class="col-md">
                     <img class="w-100" src="../assets/Home/nft_left.png">
@@ -161,9 +205,9 @@
                     <img class="w-100" src="../assets/Home/nft_right.png" style="margin-top: 200px">
                 </div>
             </div>
-        </div>
-        <br />
-        <!-- <div class="frame">
+        </section>
+
+        <!-- <section>
             <div class="d-flex align-items-center mb-3">
                 <img src="../assets/logo.png" width="100" height="100">
                 <div>
@@ -213,21 +257,36 @@
                     <img src="../assets/Home/payback_statistics.png" class="img-fluid">
                 </div>
             </div>
-        </div>
-        <br> -->
-        <div class="frame">
-            <div class="d-flex align-items-center">
-                <div>
-                    <h1 class="fw-bold">PARTNERS & INVESTORS</h1>
-                </div>
+        </section> -->
+
+        <section>
+            <div class="text-center mb-3">
+                <h1 class="display-5 fw-bold fst-italic">Partners & Investors</h1>
             </div>
-        </div>
-        <br>
-        <div class="frame">
-            <div class="d-flex align-items-center mb-3">
-                <div>
-                    <h1 class="fw-bold">TEAM & ADVISORS</h1>
+        </section>
+
+        <section>
+            <div class="text-center mb-5">
+                <h1 class="display-5 fw-bold fst-italic">Team & Advisors</h1>
+            </div>
+
+            <div class="row g-5">
+                <div class="col-sm-6 col-md-3">
+                    <img class="img-fluid" src="../assets/Home/token_allocation.png" />
                 </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <img class="img-fluid" src="../assets/Home/token_allocation.png" />
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <img class="img-fluid" src="../assets/Home/token_allocation.png" />
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <img class="img-fluid" src="../assets/Home/token_allocation.png" />
+                </div>
+
             </div>
             <!-- <div class="row gy-3">
                 <div class="col-6 col-md-3">
@@ -255,8 +314,7 @@
                     <img src="../assets/Home/team&advisors.png" class="img-fluid">
                 </div>
             </div> -->
-        </div>
-        <br>
+        </section>
         
         <!-- <form class="d-flex">
             <div class="input-group mb-3">
