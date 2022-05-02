@@ -43,6 +43,50 @@ section {
     margin: auto
 }
 
+.follow-btn {
+    background-color: black;
+    border-width: 2px;
+    border-radius: 0.75rem;
+    border-color: white;
+    color: white;
+    width: 16rem;
+    text-align: center;
+}
+
+.follow-btn:hover {
+    color: white;
+}
+
+.primary-input {
+    padding: 0.8rem 1.2rem;
+    min-width: 20rem;
+    background-color: transparent;
+    border-width: 2px;
+    border-radius: 0.75rem;
+    color: white;
+}
+
+.primary-input:active, .primary-input:focus {
+    background-color: transparent;
+}
+
+.primary-input:focus {
+    border-color: white;
+}
+
+.primary-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+  
+.primary-input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+}
+  
+.primary-input::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+}
+
 /* Home components */
 .card.feature {
     height: 100%;

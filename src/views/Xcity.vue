@@ -35,8 +35,10 @@
                 <img class="img-fluid" src="../assets/xcity/snowcity.png">
             </div>
 
-            <div class="col-md-4 d-flex flex-column justify-content-center align-items-center fs-2 fw-bold fst-italic">
+            <div class="col-md-4 d-flex flex-column justify-content-center align-items-center g-4 fs-2 fw-bold fst-italic">
                 <p>Surf to Earn</p>
+                <p>Become KOl</p>
+                <p>Space Travel</p>
                 <p>Video Chat</p>
                 <p>Assets</p>
                 <p>Meet Friends</p>

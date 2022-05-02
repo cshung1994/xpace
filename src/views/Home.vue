@@ -14,15 +14,14 @@
                         <img src="../assets/Home/lightblue.png" class="icon" width="50px">
                         HAPPIER
                     </i>
-                    <!-- <a href="#" class="text-info">Download the Whitepaper</a>
-                    <br>
-                    <a href="#" class="text-info">View the Onepaper</a> -->
+                    <!-- <a href="#" class="text-info">Download the Whitepaper</a> -->
                 </div>
-                <div class="col-6">
+                <div class="col-6 d-flex flex-column align-items-center">
                     <p class="fs-3">
                         The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
                         Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
                     </p>
+                    <img class="w-50 mt-4 img-fluid" src="../assets/Home/discover_more.png">
                 </div>
                 <div class="col-6">
                     <img src="../assets/Home/astra.png" class="icon" width="100%">
@@ -118,29 +117,6 @@
             </div>
         </section>
 
-        <!-- <section>
-            <div class="d-flex">
-                <img src="../assets/logo.png" width="100" height="100">
-                <div>
-                    <h1 class="fw-bold">ECOSYSTEM & APPLICATIONS</h1>
-                    <p>第一個專注於資料正義的社群 / 交友 / BBS 論壇工具</p>
-                </div>
-            </div>
-            <div>
-                <div class="py-3 text-primary">
-                    <div class="d-flex">
-                        <img src="../assets/Home/checkpoint.png" width="24" height="20" class="pe-1">
-                        當資料真正的主人：您可以自行決定是否分享 Xpace 生態應用中的個人資料
-                    </div>
-                    <div class="d-flex">
-                        <img src="../assets/Home/checkpoint.png" width="24" height="20" class="pe-1">
-                        輕鬆獲得利潤回饋：您在 BBS X-city 和 X-pet 所有點擊觀看廣告將可為您賺取收入
-                    </div>
-                </div>
-                <img src="../assets/Home/ecosystem&application.png" class="img-fluid">
-            </div>
-        </section> -->
-
         <section>
             <div class="text-center mb-5">
                 <h1 class="display-5 fw-bold fst-italic">Tokenomics</h1>
@@ -187,82 +163,6 @@
                 <h1 class="display-5 fw-bold fst-italic">Roadmap</h1>
             </div>
             <img src="../assets/Home/roadmap.png" class="img-fluid">
-        </section>
-
-        <section>
-            <div class="text-center mb-3">
-                <h1 class="display-5 fw-bold fst-italic">NFT</h1>
-            </div>
-
-            <div class="row py-3 gy-3 text-center">
-                <div class="col-md">
-                    <img class="w-100" src="../assets/Home/nft_left.png">
-                </div>
-                <div class="col-md">
-                    <img class="w-100" src="../assets/Home/nft_mid.png">
-                </div>
-                <div class="col-md">
-                    <img class="w-100" src="../assets/Home/nft_right.png" style="margin-top: 200px">
-                </div>
-            </div>
-        </section>
-
-        <!-- <section>
-            <div class="d-flex align-items-center mb-3">
-                <img src="../assets/logo.png" width="100" height="100">
-                <div>
-                    <h1 class="fw-bold">使命與願景</h1>
-                </div>
-            </div>
-            <div class="row gy-3">
-                <div class="col-sm-7">
-                    <div>
-                        <a href="#" class="text-info">View whitepaper for details</a>
-                        <div class="text-primary text-white">
-                            當全世界還在強調個資保護的落實<br>
-                            我們決定再更向前一步邁進全球資料正義的未來<br>
-                            讓鉅額的資料利潤不再被大型網路公司所壟斷<br>
-                            能夠真正回歸到資料生產者手中<br>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="row fw-bold text-center">
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/coin.png" class="img-fluid">
-                            <p>利潤回歸用戶</p>
-                        </div>
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/user.png" class="img-fluid">
-                            <p>用戶為個人資料<br>控制核心</p>
-                        </div>
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/shield.png" class="img-fluid">
-                            <p>保護用戶資料</p>
-                        </div>
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/eye.png" class="img-fluid">
-                            <p>資料交易紀錄<br>對用戶透明<br>不可竄改</p>
-                        </div>
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/user.png" class="img-fluid">
-                            <p>商業及個人用戶<br>共榮生態圈</p>
-                        </div>
-                        <div class="col-4">
-                            <img src="../assets/Home/mission/user.png" class="img-fluid">
-                            <p>技術支持社會正義</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-5 px-3">
-                    <img src="../assets/Home/payback_statistics.png" class="img-fluid">
-                </div>
-            </div>
-        </section> -->
-
-        <section>
-            <div class="text-center mb-3">
-                <h1 class="display-5 fw-bold fst-italic">Partners & Investors</h1>
-            </div>
         </section>
 
         <section>
