@@ -14,9 +14,9 @@
 
 <script>
 import { Doughnut } from 'vue-chartjs'
-import { Chart as ChartJS, Title, Tooltip, Legend, ArcElement, BarElement, CategoryScale, LinearScale } from 'chart.js'
+import { Chart as ChartJS, Title, Tooltip, ArcElement, BarElement, CategoryScale, LinearScale } from 'chart.js'
 
-ChartJS.register(Title, Tooltip, Legend, BarElement, ArcElement, CategoryScale, LinearScale)
+ChartJS.register(Title, Tooltip, BarElement, ArcElement, CategoryScale, LinearScale)
 
 export default {
   name: 'DoughnutChart',
