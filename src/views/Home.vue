@@ -126,23 +126,23 @@
                 <div class="col-md-8">
                     <div class="row">
                         <div class="col-6">
-                            <p>TOKEN SYMBOL</p>
+                            <h4>TOKEN SYMBOL</h4>
                             <img src="../assets/logo.png" width="100" height="100">
                             <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
-                            <p>XPA</p>
+                            <h4>XPA</h4>
                         </div>
                         <div class="col-6">
-                            <p>INITIAL CIRCULATION</p>
+                            <h4>INITIAL CIRCULATION</h4>
                             <p>50,000,000</p>
                             <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
                         </div>
                         <div class="col-6">
-                            <p>INITIAL PUBLIC SALE PRICE</p>
+                            <h4>INITIAL PUBLIC SALE PRICE</h4>
                             <p>$0.1</p>
                             <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
                         </div>
                         <div class="col-6">
-                            <p>TOTAL SUPPLY</p>
+                            <h4>TOTAL SUPPLY</h4>
                             <p>1,000,000,000</p>
                             <!-- <img src="../assets/Home/token_allocation.png" class="img-fluid"> -->
                         </div>
