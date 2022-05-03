@@ -150,8 +150,9 @@
                 </div>
 
                 <div class="col-md-4">
-                    <p class="mb-3 text-center">TOKEN ALLOCATION</p>
-                    <img class="w-100" src="../assets/Home/token_allocation.png">
+                    <h4 class="mb-3 text-center">TOKEN ALLOCATION</h4>
+                    <DoughnutChart />
+                    <!-- <img class="w-100" src="../assets/Home/token_allocation.png"> -->
                     <!-- <p class="my-3">TOKEN RELEASE SCHEDULE</p>
                     <img src="../assets/Home/token_release_schedule.jpg" class="img-fluid"> -->
                 </div>
@@ -224,3 +225,12 @@
         </form> -->
     </div>
 </template>
+
+<script>
+import DoughnutChart from '../components/DoughnutChart.vue'
+
+export default {
+  name: 'App',
+  components: { DoughnutChart }
+}
+</script>
