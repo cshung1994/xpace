@@ -1,5 +1,5 @@
 <template>
-    <section class="position-relative">
+    <section class="position-relative mt-0">
         <img class="position-absolute w-100 img-fluid" src="../assets/xcity/xcity.png">
         <div class="position-relative w-100 px-4 py-4">
             <H1>
@@ -27,7 +27,7 @@
         <p class="mt-4 lh-1" style="width: 80%;">Explore fun on every planet in the X-city world. Various landscapes and hiding events bring more exciting experiences for you.</p>
     </section>
 
-    <section style="marginTop: 5rem;">
+    <section>
         <div class="row">
             <div class="col-md-5 d-flex flex-column">
                 <img class="mb-3 img-fluid" src="../assets/xcity/playroom.png">
@@ -35,8 +35,10 @@
                 <img class="img-fluid" src="../assets/xcity/snowcity.png">
             </div>
 
-            <div class="col-md-4 d-flex flex-column justify-content-center align-items-center fs-2 fw-bold fst-italic">
+            <div class="col-md-4 d-flex flex-column justify-content-center align-items-center g-4 fs-2 fw-bold fst-italic">
                 <p>Surf to Earn</p>
+                <p>Become KOl</p>
+                <p>Space Travel</p>
                 <p>Video Chat</p>
                 <p>Assets</p>
                 <p>Meet Friends</p>
