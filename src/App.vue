@@ -37,15 +37,15 @@
 			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'share-nodes']" />
 			</div>
-			<div class="float-link">
+			<!-- <div class="float-link">
 				<font-awesome-icon :icon="['fab', 'discord']" />
-			</div>
+			</div> -->
 			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'envelope']" />
 			</div>
-			<div class="float-link">
+			<!-- <div class="float-link">
 				<font-awesome-icon :icon="['fab', 'twitter']" />
-			</div>
+			</div> -->
 			<div class="float-link">
 				<font-awesome-icon :icon="['fas', 'paper-plane']" />
 			</div>
