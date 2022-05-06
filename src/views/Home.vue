@@ -9,9 +9,9 @@
                     <br>
                     <i class="display-5 fw-bold">
                         CLOSER
-                        <img src="../assets/Home/pink.png" class="icon" width="50px">
+                        <img src="../assets/Home/pink.png" width="50px">
                         RICHER
-                        <img src="../assets/Home/lightblue.png" class="icon" width="50px">
+                        <img src="../assets/Home/lightblue.png" width="50px">
                         HAPPIER
                     </i>
                     <!-- <a href="#" class="text-info">Download the Whitepaper</a> -->
@@ -21,10 +21,10 @@
                         The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
                         Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
                     </p>
-                    <img class="w-50 mt-4 img-fluid" src="../assets/Home/discover_more.png">
+                    <img class="w-50 mt-4" src="../assets/Home/discover_more.png">
                 </div>
                 <div class="col-6">
-                    <img src="../assets/Home/astra.png" class="icon" width="100%">
+                    <img src="../assets/Home/astra.png" width="100%">
                 </div>
             </div>
         </section>
@@ -80,39 +80,109 @@
 
             <div class="row g-5">
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">DAO Governance</h2>
-                    <p class="pe-5 fw-light">XPA DAO token holders can govern the X-city social platform by participating in on-chain governance.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_key.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">DAO Governance</h2>
+                            <p class="pe-5 fw-light">XPA DAO token holders can govern the X-city social platform by participating in on-chain governance.</p>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Fun & Convenient</h2>
-                    <p class="pe-5 fw-light">High personalized friends recommendation, fun and convenient experience in communication. </p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_heart.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Fun & Convenient</h2>
+                            <p class="pe-5 fw-light">High personalized friends recommendation, fun and convenient experience in communication. </p>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Spaces/communities DAO</h2>
-                    <p class="pe-5 fw-light">Users can deploy DAO tokens for their own spaces/communities, then set rules and manage them by their own DAO token.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_badge.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Spaces/communities DAO</h2>
+                            <p class="pe-5 fw-light">Users can deploy DAO tokens for their own spaces/communities, then set rules and manage them by their own DAO token.</p>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Surf to earn</h2>
-                    <p class="pe-5 fw-light">Surf to earn from advertisement slots and the data you delegate (recorded on-chain) to XPACE.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_diamond.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Surf to earn & Rent to earn</h2>
+                            <p class="pe-5 fw-light">Surf to earn from advertisement slots and the data you delegate (recorded on-chain) to XPACE. Rent advertisement slots in your space directly to advertisers.</p>
+                        </div>
+                    </div>
+                    
                 </div>
 
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Treasury</h2>
-                    <p class="pe-5 fw-light">The XPACE owns an on-chain pot of funds for the promotion and development of the ecosystem.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_bank.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Treasury</h2>
+                            <p class="pe-5 fw-light">The XPACE owns an on-chain pot of funds for the promotion and development of the ecosystem.</p>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Rent to earn</h2>
-                    <p class="pe-5 fw-light">Rent advertisement slots in your space directly to advertisers.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_globe.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Expand your estates</h2>
+                            <p class="pe-5 fw-light">Create and expand your land and spaces in the X-city world.</p>
+                        </div>
+                    </div>
+                    
                 </div>
 
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">NFTs</h2>
-                    <p class="pe-5 fw-light">Turn your creations and spaces on XPACE into NFTs, and rent or sell them to others.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_lightning.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">NFTs</h2>
+                            <p class="pe-5 fw-light">Turn your creations and spaces on XPACE into NFTs, and rent or sell them to others.</p>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-md-6 px-5">
-                    <h2 class="fw-bold">Unique Algorithms</h2>
-                    <p class="pe-5 fw-light">XPACE's unique algorithms make your profit performance better.</p>
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 me-2" style="width: 32px;">
+                            <img class="w-100 mt-1" src="../assets/Home/icon_star.png">
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h2 class="fw-bold">Unique Algorithms</h2>
+                            <p class="pe-5 fw-light">XPACE's unique algorithms make your profit performance better.</p>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </section>
