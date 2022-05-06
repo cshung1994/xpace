@@ -18,8 +18,7 @@
                 </div>
                 <div class="col-6 d-flex flex-column align-items-center">
                     <p class="fs-3">
-                        The XPACE team is building a super cool and convenient social platform that you can think of it as a hybrid of Reddit,
-                        Gather Town, and Facebook, but you can govern and earn from your data in our social platform, X-city.
+                        The XPACE team is building a super cool and convenient social platform that you can govern and earn from your data in this social platform, X-city. You can think of it as a hybrid of Reddit, Gather Town, and Facebook.
                     </p>
                     <img class="w-50 mt-4" src="../assets/Home/discover_more.png">
                 </div>
