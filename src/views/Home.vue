@@ -9,9 +9,9 @@
                     <br>
                     <i class="display-5 fw-bold">
                         CLOSER
-                        <img src="../assets/Home/pink.png" width="50px">
+                        <img src="../assets/Home/pink.png" width="50">
                         RICHER
-                        <img src="../assets/Home/lightblue.png" width="50px">
+                        <img src="../assets/Home/lightblue.png" width="50">
                         HAPPIER
                     </i>
                     <!-- <a href="#" class="text-info">Download the Whitepaper</a> -->
@@ -21,13 +21,13 @@
                         The XPACE team is building a super cool and convenient social platform that you can govern and earn from your data in this social platform, X-city. You can think of it as a hybrid of Reddit, Gather Town, and Facebook.
                     </p>
                     <div class="w-50 mt-4">
-                        <a href="/xcity">
+                        <router-link :to="{name: 'Xcity'}">
                             <img class="img-fluid" src="../assets/Home/discover_more.png">
-                        </a>
+                        </router-link>
                     </div>
                 </div>
                 <div class="col-6">
-                    <img src="../assets/Home/astra.png" width="100%">
+                    <img class="img-fluid" src="../assets/Home/astra.png">
                 </div>
             </div>
         </section>
