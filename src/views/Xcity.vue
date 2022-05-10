@@ -37,7 +37,7 @@
 
             <div class="col-md-4 d-flex flex-column justify-content-center align-items-center g-4 fs-2 fw-bold fst-italic">
                 <p>Surf to Earn</p>
-                <p>Become KOl</p>
+                <p>Become KOL</p>
                 <p>Space Travel</p>
                 <p>Video Chat</p>
                 <p>Assets</p>
