@@ -20,7 +20,11 @@
                     <p class="fs-3">
                         The XPACE team is building a super cool and convenient social platform that you can govern and earn from your data in this social platform, X-city. You can think of it as a hybrid of Reddit, Gather Town, and Facebook.
                     </p>
-                    <img class="w-50 mt-4" src="../assets/Home/discover_more.png">
+                    <div class="w-50 mt-4">
+                        <a href="/xcity">
+                            <img class="img-fluid" src="../assets/Home/discover_more.png">
+                        </a>
+                    </div>
                 </div>
                 <div class="col-6">
                     <img src="../assets/Home/astra.png" width="100%">
@@ -78,7 +82,7 @@
             </div>
 
             <div class="row g-5">
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_key.png">
@@ -90,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_heart.png">
@@ -103,7 +107,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_badge.png">
@@ -116,7 +120,7 @@
                     </div>
                     
                 </div>
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_diamond.png">
@@ -130,7 +134,7 @@
                     
                 </div>
 
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_bank.png">
@@ -143,7 +147,7 @@
                     </div>
                     
                 </div>
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_globe.png">
@@ -157,7 +161,7 @@
                     
                 </div>
 
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_lightning.png">
@@ -170,7 +174,7 @@
                     </div>
                     
                 </div>
-                <div class="col-md-6 px-5">
+                <div class="col-md-6 px-xs-0 px-5">
                     <div class="d-flex">
                         <div class="flex-shrink-0 me-2" style="width: 32px;">
                             <img class="w-100 mt-1" src="../assets/Home/icon_star.png">
@@ -191,7 +195,7 @@
                 <h1 class="display-5 fw-bold fst-italic">Tokenomics</h1>
             </div>
 
-            <div class="row px-4">
+            <div class="row px-xs-0 px-4">
                 <div class="col-md-8">
                     <div class="row">
                         <div class="col-6">
