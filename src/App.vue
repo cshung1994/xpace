@@ -24,7 +24,13 @@
 							<router-link class="nav-link" to="/xpadao">XPA DAO</router-link>
 						</li>
 						<li class="nav-item ms-4">
-							<img src="./assets/follow_us.png" alt="" class="mt-1" style="height: 3rem;">
+							<a
+								href="https://forms.gle/8cVEiqujCwFJP4rP9"
+								target="_blank"
+								ref="noreferrer"
+							>
+								<img src="./assets/follow_us.png" alt="" class="mt-1" style="height: 3rem;">
+							</a>
 						</li>
 					</ul>
 				</div>
