@@ -40,33 +40,29 @@
             </div>
 
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-4 order-md-1">
+                    <h5 class="fw-bold display-6">Data Justice</h5>
+                    <p>
+                        Being one part of the web 3.0 philosophy,
+                        Xpace dedicate to realizing a data justice world.
+                        The enormous profits of data should belong to data generators,
+                        not media magnates. Data generators, our users,
+                        are the boss of their data. With blockchain technology,
+                        the logs of authorization are recorded immutably and transparently.
+                    </p>
+                </div>
+
+                <div class="col-md-4 order-md-0">
                     <img class="w-100" src="../assets/Home/ring.png" style="marginTop: 4rem;">
                 </div>
 
-                <div class="col-md-9">
-                    <div class="row g-5">
-                        <div class="col-md-6">
-                            <h5 class="fw-bold display-6">Data Justice</h5>
-                            <p>
-                                Being one part of the web 3.0 philosophy,
-                                Xpace dedicate to realizing a data justice world.
-                                The enormous profits of data should belong to data generators,
-                                not media magnates. Data generators, our users,
-                                are the boss of their data. With blockchain technology,
-                                the logs of authorization are recorded immutably and transparently.
-                            </p>
-                        </div>
-
-                        <div class="col-md-6">
-                            <h5 class="fw-bold display-6">Immersion</h5>
-                            <p class="card-text">
-                                Xpace wish you a brand new community experience, where you can meet people who share the same interests as you and interact with them with exciting options. The immersive environments give you more inspiration when you surf X-city. 
-                            </p>
-                            <!-- <a href="#" class="btn btn-primary">Know More</a> -->
-                            <img class="w-100" src="../assets/Home/ball.png">
-                        </div>
-                    </div>
+                <div class="col-md-4 order-md-2">
+                    <h5 class="fw-bold display-6">Immersion</h5>
+                    <p class="card-text">
+                        Xpace wish you a brand new community experience, where you can meet people who share the same interests as you and interact with them with exciting options. The immersive environments give you more inspiration when you surf X-city. 
+                    </p>
+                    <!-- <a href="#" class="btn btn-primary">Know More</a> -->
+                    <img class="w-100" src="../assets/Home/ball.png">
                 </div>
             </div>
         </section>
@@ -245,19 +241,19 @@
             </div>
 
             <div class="row g-5">
-                <div class="col-sm-6 col-md-3">
+                <div class="col-6 col-sm-3">
                     <img class="img-fluid" src="../assets/Home/token_allocation.png" />
                 </div>
 
-                <div class="col-sm-6 col-md-3">
+                <div class="col-6 col-sm-3">
                     <img class="img-fluid" src="../assets/Home/token_allocation.png" />
                 </div>
 
-                <div class="col-sm-6 col-md-3">
+                <div class="col-6 col-sm-3">
                     <img class="img-fluid" src="../assets/Home/token_allocation.png" />
                 </div>
 
-                <div class="col-sm-6 col-md-3">
+                <div class="col-6 col-sm-3">
                     <img class="img-fluid" src="../assets/Home/token_allocation.png" />
                 </div>
 
