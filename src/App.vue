@@ -25,7 +25,7 @@
 						</li>
 						<li class="nav-item ms-4">
 							<a
-								href="https://forms.gle/8cVEiqujCwFJP4rP9"
+								href="https://forms.gle/82wC7JpUxVqeHhjX8"
 								target="_blank"
 								ref="noreferrer"
 							>
@@ -77,7 +77,7 @@
 				</form>
 				-->
 				<a
-					href="https://forms.gle/QVyZgt9s1zcrhFbm6"
+					href="https://forms.gle/82wC7JpUxVqeHhjX8"
 					class="btn follow-btn fs-4 fw-bold"
 					target="_blank"
 					ref="noreferrer"
