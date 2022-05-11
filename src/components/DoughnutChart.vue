@@ -64,12 +64,11 @@ export default {
           'Private Sale',
           'Public Sale',
           'Liquidity',
-          'Airdrop, Community & Platform Reward'
         ],
         datasets: [
           {
-            backgroundColor: ['#ffadad', '#ffd6a5', '#fdffb6', '#caffbf', '#9bf6ff', '#a0c4ff', '#bdb2ff', '#ffc6ff'],
-            data: [30, 20, 5, 10, 5, 5, 5, 20]
+            backgroundColor: ['#ffadad', '#ffd6a5', '#fdffb6', '#caffbf', '#9bf6ff', '#a0c4ff', '#bdb2ff'],
+            data: [50, 15, 5, 10, 5, 5, 5]
           }
         ]
       },
