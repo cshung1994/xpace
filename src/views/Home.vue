@@ -16,7 +16,7 @@
                     </i>
                     <!-- <a href="#" class="text-info">Download the Whitepaper</a> -->
                 </div>
-                <div class="col-6 d-flex flex-column align-items-center">
+                <div class="col-12 col-md-6 order-1 order-md-0 d-flex flex-column align-items-center">
                     <p class="fs-3">
                         The XPACE team is building a super cool and convenient social platform that you can govern and earn from your data in this social platform, X-city. You can think of it as a hybrid of Reddit, Gather Town, and Facebook.
                     </p>
@@ -26,7 +26,7 @@
                         </router-link>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-md-6 order-0 order-md-1">
                     <img class="img-fluid" src="../assets/Home/astra.png">
                 </div>
             </div>
